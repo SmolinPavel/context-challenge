@@ -1,10 +1,10 @@
 A repo created to display the usage of new and legacy Context API in React. Provides an approach to mix them together 🍸
 
 ### Files
-1. [Legacy.js](/blob/master/src/context/Legacy.js) - example of the legacy Context API in React
-2. [New.js](/blob/master/src/context/New.js) - example of the new Context API in React
-3. [Problem.js](/blob/master/src/context/Problem.js) - example of issues with the partial migration to the new Context API in React
-4. [Solution.js](/blob/master/src/context/Solution.js) - example of the mixing new and legacy Context APIs 🍸
+1. [Legacy.js](/src/context/Legacy.js) - example of the legacy Context API in React
+2. [New.js](/src/context/New.js) - example of the new Context API in React
+3. [Problem.js](/src/context/Problem.js) - example of issues with the partial migration to the new Context API in React
+4. [Solution.js](/src/context/Solution.js) - example of the mixing new and legacy Context APIs 🍸
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
