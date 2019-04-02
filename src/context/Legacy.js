@@ -11,7 +11,7 @@ class Legacy extends Component {
         <p>
           This example is using{' '}
           <span style={{ fontStyle: 'italic', color: 'green' }}>
-            {this.context.api}
+            {api}
           </span>
         </p>
       </div>
