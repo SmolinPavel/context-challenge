@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
-import Context from './context/Legacy';
+import Context from './context/Solution';
 
 class App extends Component {
   render() {
